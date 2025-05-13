@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: UNIST Financial Mathematics Lab # the website title (if blank, full name will be used instead)
+title: UNIST Financial Mathematics # the website title (if blank, full name will be used instead)
 first_name: UNIST
-middle_name: Financial Mathematics
-last_name: Lab
+middle_name: Financial
+last_name: Mathematics
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
